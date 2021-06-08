@@ -1,0 +1,35 @@
+.dock-top .dock-bar{
+    background:#2c3134 !important;
+    border-bottom: 1px solid #343a3d !important;
+  }  
+  .dock-tab-active{
+    background:#343a3d !important;
+    color: #fff !important;
+    padding: 0px 5px !important;
+  }
+  .dock-tabpane{
+    background-color:#343a3d !important;
+  }
+  .dock-tab-close-btn{
+    margin-right: 2px !important;
+  }
+  .dock-panel{
+    border:0px !important;
+  }
+  .dock-divider{
+    flex: 0 0 1px !important;
+    background: #2b2a2a !important;
+  }
+  .dock-panel-max-btn::before{
+    border: 2px solid #fff !important;
+  }
+  .dock-top .dock-ink-bar{
+    background: #343a3d !important;
+  }
+  .dock-layout{
+    inset:0px !important;
+  }
+
+  .dock-fbox > .dock-panel{
+    box-shadow: 0 0 4px #1e1e1e !important;
+  }
